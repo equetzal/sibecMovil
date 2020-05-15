@@ -46,5 +46,9 @@
 <dt><a href="https://github.com/HansDeveloper">Hans González</a></dt>
 <dd>He was the initial developer of the application, who due to his short time in the project, could not make large contributions in code, but he did lay the foundations for the entire project, as well as its use cases, the functions to be developed and the characteristics to implement.</dd>
 </dl>
+<h2 id="check-the-app-by-yourself">Check the app by yourself</h2>
 <h2 id="disclaimer">Disclaimer</h2>
+<p>This application has the authorship and intellectual property in the name of Enya Quetzalli Gómez Rodríguez, but all the rights of use, change, modification, distribution and ownership are from the National Polytechnic Institute.</p>
+<p>Given the agreements given by the National Polytechnic Institute, it is not possible for me to make public any code that could put the use of the application at risk, as well as making visible any code that can be found to find any vulnerability in the system. However, I am working on a parallel project for free use in which everyone can use the resources created in this app, as well as create their own web services that will give the app a working start.</p>
+<p>If you have any questions about the development of the app, or there are some features that you would like to implement on your own, or simply like guidance on development of any kind related to the app, do not hesitate to email me at <a href="mailto:egomezr1300@alumno.ipn.mx">egomezr1300@alumno.ipn.mx</a></p>
 
